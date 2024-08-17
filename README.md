@@ -4,7 +4,6 @@ an **ADVANCED** Serial Checker created by pngufpss✅
 
 # Functions ⚡
 
-
 + **Serial Output**                          
   •  **BIOS** Serial Numbers                          
   •  **UUID** Serial Number                          
