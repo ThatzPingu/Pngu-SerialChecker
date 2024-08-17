@@ -1,4 +1,4 @@
-# SecHex-SerialChecker
+# Pngu-SerialChecker
 
 an **ADVANCED** Serial Checker created by pngufpss✅
 
