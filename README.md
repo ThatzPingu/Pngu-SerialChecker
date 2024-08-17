@@ -12,16 +12,6 @@ an **ADVANCED** Serial Checker created by pngufpss✅
   •  **Baseboard** Serial Number
   •  **Network Adapter MAC** Addresses
 
-
-# SecHex-SerialChecker 
-
-**Advanced** Serial Checker ✅ 
-
-# Functions ⚡
-
-+ **Display Section**                          
-  • displays a section title and checks if the output is empty. Based on the result, it highlights the title in either red or green color to indicate the status of the output
-
 + **Serial Output**                          
   •  **DISK** Serial Numbers                          
   •  **BIOS** Serial Number                          
